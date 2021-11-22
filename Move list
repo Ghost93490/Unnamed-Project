@@ -1,8 +1,0 @@
-Move <number> <direction> (moves <number> spaces in <direction>)
-Interact (interacts with any object immediately to the left, right, forward or backward)
-Attack 1-x (uses characters attack move x)
-Pause (pauses the game)
-Next (used for dialouge)
-Skip (also used for dialouge)
-Enter (doors)
-Quit (exits game)
